@@ -25,8 +25,9 @@ Checkout the Live demo: <a href="https://nought-o-and-cross-x.netlify.app/">Tic-
 
 
 
-![Report in Fahrenheit](https://img.shields.io/badge/Report&nbsp;in&nbsp;Fahrenheit-%230078D4?style=flat&colorB=%23A3E635)
+![Result](https://img.shields.io/badge/Resule&nbsp;Page-%230078D4?style=flat&colorB=%23A3E635)
 
-![image](https://github.com/user-attachments/assets/5b92eae3-d6ac-40d1-84a7-97178cbffdda)
+![image](https://github.com/user-attachments/assets/8c32f525-65cc-4f4e-9569-f260d201e5f9)
+
 
 Want to go up? Just try this <a href="#top">Back to top</a>🚀
