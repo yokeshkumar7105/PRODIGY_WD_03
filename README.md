@@ -4,13 +4,13 @@ This repository contains task number 3 which is been done during my internship a
 
 Built a tic-tac-toe web application, using HTML, CSS, and JavaScript. By implementing functions to handle user clicks, track game state, and check for winning conditions and created an interactive and engaging tic-tac-toe game. With these technologies and functionalities, users can play against each other or against an AI opponent.
 
-Checkout the Live demo: <a href="https://nought-o-and-cross-x.netlify.app/">Climora - Live Demo</a>
+Checkout the Live demo: <a href="https://nought-o-and-cross-x.netlify.app/">Tic-Tac-Toe - Live Demo</a>
 
 ## Sample Screenshots
 
-![Front Page](https://img.shields.io/badge/Front&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
+![Selection Page](https://img.shields.io/badge/Selection&nbsp;Page-%230078D4?style=flat&colorB=%23A3E635)
 
-![image]()
+![image](![image](https://github.com/user-attachments/assets/834055ff-eb44-4530-a246-c2815691f99e))
 
 
 ![Weekly Report](https://img.shields.io/badge/Weekly&nbsp;Report-%230078D4?style=flat&colorB=%23A3E635)
