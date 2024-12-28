@@ -10,7 +10,7 @@ Checkout the Live demo: <a href="https://nought-o-and-cross-x.netlify.app/">Tic-
 
 ![Selection Page](https://img.shields.io/badge/Selection&nbsp;Page-%230078D4?style=flat&colorB=%23A3E635)
 
-![image](![image](https://github.com/user-attachments/assets/834055ff-eb44-4530-a246-c2815691f99e))
+![image](https://github.com/user-attachments/assets/834055ff-eb44-4530-a246-c2815691f99e)
 
 
 ![Weekly Report](https://img.shields.io/badge/Weekly&nbsp;Report-%230078D4?style=flat&colorB=%23A3E635)
