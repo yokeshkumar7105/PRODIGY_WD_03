@@ -19,9 +19,10 @@ Checkout the Live demo: <a href="https://nought-o-and-cross-x.netlify.app/">Tic-
 
 
 
-![Daily Report](https://img.shields.io/badge/Daily&nbsp;Report-%230078D4?style=flat&colorB=%23A3E635)
+![Play Arena](https://img.shields.io/badge/Play&nbsp;Arena-%230078D4?style=flat&colorB=%23A3E635)
 
-![image](https://github.com/user-attachments/assets/55003982-f17c-4972-a705-11b246bac59c)
+![image](https://github.com/user-attachments/assets/8b2d4de5-a904-4528-b43e-d222c45fe51b)
+
 
 
 ![Report in Fahrenheit](https://img.shields.io/badge/Report&nbsp;in&nbsp;Fahrenheit-%230078D4?style=flat&colorB=%23A3E635)
