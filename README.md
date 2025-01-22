@@ -1,4 +1,4 @@
-# <p id="top">TIC TAC TOE</p>
+# <p id="top">TIC TAC TOE GAME</p>
 
 This repository contains task number 3 which is been done during my internship at <b>Prodigy Infotech</b>
 
